@@ -47,3 +47,13 @@ products 1—∞ order_items
 orders 1—1 deliveries
 
 orders 1—∞ reviews
+
+
+📈 SQL Insights (VIEWs)
+Project includes at least 3 analytical VIEWs, such as:
+
+✅ VIEW 1: Top Customers by Spending (Клиенты больше всего)               (top_customers)
+✅ VIEW 2: Product Sales Summary  (Количество продаж + общая выручка)     (product_sales_summary )
+✅ VIEW 3: Delivery Performance (Средняя задержка доставки по заказам)    (delivery_performance)
+✅ VIEW 4: Average Product Rating  (Средний рейтинг каждого продукта)     (product_ratings)
+
