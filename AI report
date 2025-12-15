@@ -1,0 +1,18 @@
+AI Agent Activity Report 
+AI Agent Implementation Report
+
+An AI-powered SQL agent was implemented using LangChain integrated with Google Gemini and connected to a MySQL relational database (coffee_shop). The agent was designed to translate natural language questions into valid MySQL queries and return analytical insights based on the stored data.
+
+Key Capabilities of the AI Agent
+
+The AI agent is capable of:
+
+Interpreting natural language questions related to the database
+
+Automatically generating correct MySQL-compatible SQL queries
+
+Executing queries on the relational database
+
+Returning structured and human-readable analytical results
+
+The agent strictly operates within the scope of the database and does not rely on external knowledge sources.
